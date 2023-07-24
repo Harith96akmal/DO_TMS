@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"Delivery_Order/database"
-	"Delivery_Order/functions"
-	"Delivery_Order/models"
+	"DO_TMS/database"
+	"DO_TMS/functions"
+	"DO_TMS/models"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,8 +1,8 @@
 package functions
 
 import (
-	"Delivery_Order/database"
-	"Delivery_Order/models"
+	"DO_TMS/database"
+	"DO_TMS/models"
 	"fmt"
 	"log"
 	"strconv"

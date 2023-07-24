@@ -1,7 +1,7 @@
 package migration
 
 import (
-	"Delivery_Order/database"
+	"DO_TMS/database"
 	"io/ioutil"
 	"log"
 )

@@ -3,4 +3,4 @@
 # Create Mysql database named as "DO_TMS" or change .env variables
 # Database tables will be automatically created when Go application is run
 # Run main.go
-# Ready to call API
+# Ready to call API (tested using Postman)

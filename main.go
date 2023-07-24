@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Delivery_Order/controllers"
-	"Delivery_Order/database"
-	"Delivery_Order/database/migration"
+	"DO_TMS/controllers"
+	"DO_TMS/database"
+	"DO_TMS/database/migration"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
